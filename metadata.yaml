@@ -1,0 +1,28 @@
+_repo: The-apiary-or-bees-bee-hives-and-bee-culture-1866-being-a-familiar-account-of-the-habits-of-b__68500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neighbor, Alfred
+    gutenberg_agent_id: '54688'
+    url: http://www.gutenberg.org/2009/agents/54688
+description: ''
+gutenberg_issued: '2022-07-11'
+identifiers:
+  gutenberg: '68500'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924003082595
+pgterms:marc905: 20220515055014neighbor
+pgterms:marc906: '1866'
+pgterms:marc907: UK
+production_note: Tom Cosmas developed from files made available on The Internet Archive
+  and placed in the Public Domain
+publication_note: UK :Kent and Company,1866.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The apiary; or, bees, bee-hives, and bee culture (1866): being a familiar
+  account of the habits of bees, and the most improved methods of management, with
+  full directions, adapted for the cottager, farmer, or scientific apiarian'
+url: http://www.gutenberg.org/ebooks/68500
